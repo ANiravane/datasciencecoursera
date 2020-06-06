@@ -13,10 +13,10 @@ Within each subjects observations, an average of each measurement is taken by gr
 The new dataset is formed. A file named 'new_dataset.txt' is created and the new dataset is stored in it.
 
 Variables used:  
-train: It is used to store the training data.
-test: It is used to store the test data.
-dataset: The merged training and test data is stored.
-means: Stores all the means of measurment columns.
-sds: Stores all the standard deviations of measurement columns.
-separated: Variable used to store an intermediate result.
-new_dataset: Used to store the final required dataset, which is later stored in a file called 'new_dataset.txt'.
+train: It is used to store the training data.  
+test: It is used to store the test data.  
+dataset: The merged training and test data is stored.  
+means: Stores all the means of measurment columns.  
+sds: Stores all the standard deviations of measurement columns.  
+separated: Variable used to store an intermediate result.  
+new_dataset: Used to store the final required dataset, which is later stored in a file called 'new_dataset.txt'.  

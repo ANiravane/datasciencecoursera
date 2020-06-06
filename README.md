@@ -12,7 +12,7 @@ Within each subjects observations, an average of each measurement is taken by gr
 
 The new dataset is formed. A file named 'new_dataset.txt' is created and the new dataset is stored in it.
 
-Variables used:
+Variables used:  
 train: It is used to store the training data.
 test: It is used to store the test data.
 dataset: The merged training and test data is stored.
